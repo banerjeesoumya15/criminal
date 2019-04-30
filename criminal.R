@@ -1,5 +1,3 @@
-#https://www.analyticsvidhya.com/blog/2016/08/practicing-machine-learning-techniques-in-r-with-mlr-package/
-#https://www.hackerearth.com/challenge/competitive/predict-the-criminal/machine-learning/predict-the-criminal/
 
 setwd("C:/Users/soumya.banerjee01/Documents/R/criminal")
 library(data.table)
