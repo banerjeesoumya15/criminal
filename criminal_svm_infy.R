@@ -1,7 +1,6 @@
 setwd("C:/Users/soumya.banerjee01/Documents/R/criminal")
 setwd("C:/Users/Soumya/Documents/R/criminal2")
 #SVM algorithm
-#https://www.analyticsvidhya.com/blog/2016/08/practicing-machine-learning-techniques-in-r-with-mlr-package/
 
 #load libraries
 library(data.table)
